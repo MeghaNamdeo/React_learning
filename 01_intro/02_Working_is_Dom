@@ -1,0 +1,3 @@
+Browser takes HTML and create DOM.
+JS helps us modify DOM based on user actions or events.
+3.In Big applications , Working with DOM becomes complicated.
