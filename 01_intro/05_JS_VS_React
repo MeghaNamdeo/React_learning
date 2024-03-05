@@ -1,0 +1,2 @@
+1.JS is imperative. You define steps to reach your desire state.
+React is DEclarative. You define the target UI state and then react figures out how to reach that state.
