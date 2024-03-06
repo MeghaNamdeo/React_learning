@@ -1,0 +1,9 @@
+.JS
+1. Stands for JavaScript
+2. Contains regular JavaScript code
+3. Used for general logic and componenets
+
+.JSX
+1. Stands for JavaScript XML/ React
+2. Combines JavaScript with HTML -like tags
+3. Makes it easier to design UI components 
